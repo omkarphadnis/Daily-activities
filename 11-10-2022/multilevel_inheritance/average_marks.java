@@ -1,3 +1,6 @@
+//Multilevel:
+
+//WAP to crate three class, one class implemet the prime no prcess , second class implement the swapping of two no, third class imepelment the find out the average of student marks.
 package multilevel_inheritance;
 
 import java.util.Scanner;
