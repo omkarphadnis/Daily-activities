@@ -1,4 +1,8 @@
-package inheritance;
+//single:
+
+//WAP to create two class one class do the process of fibonacci series and in second class find out the graeter between two no . 
+//From second class display both the operation.
+	package inheritance;
 import java.util.Scanner;
 
 public class single_inheritance extends fibonacci_demo 
